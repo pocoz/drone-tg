@@ -1,3 +1,11 @@
+The result of the plug-in is a message that the bot will send you.:
+```
+Build status: success/failure
+Build link: https://ci.your.site/service/1
+Repo: repository name
+Commit: your commit
+```
+
 Variables
   - *proxy_url* - You can use any proxy tool if api telegram is not available from your country(do not fill out to keep default)
   - *token* - Your telegram bot token - Required
