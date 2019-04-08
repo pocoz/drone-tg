@@ -7,7 +7,7 @@ Commit: your commit
 ```
 
 Variables
-  - *proxy_url* - You can use any proxy tool if api telegram is not available from your country(do not fill out to keep default) Format: *https://api.telegram.org*
+  - *proxy_url* - You can use any proxy tool if api telegram is not available from your country(do not fill out to keep default) Example format : *https://your.tg.proxy*
   - *token* - Your telegram bot token - Required
   - *chat_id* - Chat ID, which will be sent to the bot notifications - Required
 
